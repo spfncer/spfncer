@@ -3,13 +3,6 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
 
 ---
 
-## 🌱 I’m currently learning
-+ React for responsive web development
-+ Principles of programming lanaguages and how to write a recursive-decent compiler
-+ Relational algebra & SQL
-+ Principles of computer organization
-+ TypeScript for improving the web projects I work on
-
 ## 🔭 I’m currently working on
 + [**CASMM**](https://github.com/CEN3031Team10f/Emerald-Project02-10f): A cloud-based programming interface designed for elementary students, developed by the University of Florida and Texas A&M University with support from the National Science Foundation.
 + [**My Personal Website**](https://fasulo.one): To showcase the software and tools I've worked on
@@ -29,12 +22,23 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
   <a href="https://code.visualstudio.com/"><img src="images/vscode.png" height="40"></a>
 </p>
 <p align="center">
-  <a href="https://html.spec.whatwg.org/multipage/"><img src="images/html5.png" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.png" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="images/javascript.png" height="40"></a>
-  <a href="https://wordpress.org"><img src="images/wordpress.png" height="40"></a>
-  <a href="https://code.visualstudio.com/"><img src="images/vscode.png" height="40"></a>
+  <a href="https://www.linuxfoundation.org/"><img src="images/Tux.png" height="40"></a>
+  <a href="https://isocpp.org/"><img src="images/cpp.png" height="40"></a>
+  <a href="https://www.java.com/"><img src="images/java.png" height="40"></a>
+  <a href="https://www.python.org/"><img src="images/python.png" height="40"></a>
+  <a href="https://unity.com/"><img src="images/unity.png" height="40"></a>
 </p>
+
+## 🌱 I’m currently learning
+<p align="center">
+    <a href="https://www.typescriptlang.org/"><img src="images/typescript.png" height="40"></a>
+    <a href="https://lesscss.org/"><img src="images/less.png" height="40"></a>
+    <a href="https://react.dev/"><img src="images/react.png" height="40"></a>
+    <a href="https://www.docker.com/"><img src="images/docker.png" height="40"></a>
+</p>
++ Principles of programming lanaguages and how to write a recursive-decent compiler
++ Relational algebra & SQL
++ Principles of computer organization
 
 ## 📊 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spfncer&count_private=true&theme=transparent&showicons=true)]()
