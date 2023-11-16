@@ -22,7 +22,18 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
 
 ## 👨‍💻 Technical Skills
 <p align="center">
-  WIP
+  <a href="https://html.spec.whatwg.org/multipage/"><img src="images/html5.png" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.png" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="images/javascript.png" height="40"></a>
+  <a href="https://wordpress.org"><img src="images/wordpress.png" height="40"></a>
+  <a href="https://code.visualstudio.com/"><img src="images/vscode.png" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://html.spec.whatwg.org/multipage/"><img src="images/html5.png" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.png" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="images/javascript.png" height="40"></a>
+  <a href="https://wordpress.org"><img src="images/wordpress.png" height="40"></a>
+  <a href="https://code.visualstudio.com/"><img src="images/vscode.png" height="40"></a>
 </p>
 
 ## 📊 GitHub Stats
