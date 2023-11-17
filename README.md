@@ -34,6 +34,7 @@ In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.f
     <a title="Typescript" href="https://www.typescriptlang.org/"><img src="images/typescript.png" height="40"></a>
     <a title="Less.js" href="https://lesscss.org/"><img src="images/less.png" height="40"></a>
     <a title="React" href="https://react.dev/"><img src="images/react.png" height="40"></a>
+    <a title="Angular" href="https://angular.io/"><img src="images/angular.png" height="40"></a>
     <a title="Docker" href="https://www.docker.com/"><img src="images/docker.png" height="40"></a>
 </p>
 
