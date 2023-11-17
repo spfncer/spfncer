@@ -36,6 +36,7 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
     <a title="React" href="https://react.dev/"><img src="images/react.png" height="40"></a>
     <a title="Docker" href="https://www.docker.com/"><img src="images/docker.png" height="40"></a>
 </p>
+
 + Principles of programming lanaguages and how to write a recursive-decent compiler
 + Relational algebra & SQL
 + Principles of computer organization
