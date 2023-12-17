@@ -14,27 +14,31 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
 In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.spencer.fasulo.one/sls/) for an introductory course in game development. Though that field is not for me, I still enjoyed making this game. I hope you will give it a spin, keeping an eye out for easter eggs and paying no mind to the bugs that appeared when I built the game for web 😅
 
 ## 👨‍💻 Technical Skills
+<p align="center">Proficient:</p>
 <p align="center">
   <a title="HTML5" href="https://html.spec.whatwg.org/multipage/"><img src="images/html5.png" height="40"></a>
   <a title="CSS3" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.png" height="40"></a>
   <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="images/javascript.png" height="40"></a>
-  <a title="WordPress" href="https://wordpress.org"><img src="images/wordpress.png" height="40"></a>
   <a title="Visual Studio Code" href="https://code.visualstudio.com/"><img src="images/vscode.png" height="40"></a>
 </p>
+<p align="center">Intermediate:</p>
 <p align="center">
   <a title="Linux" href="https://www.linuxfoundation.org/"><img src="images/Tux.png" height="40"></a>
   <a title="C++" href="https://isocpp.org/"><img src="images/cpp.png" height="40"></a>
   <a title="Java" href="https://www.java.com/"><img src="images/java.png" height="40"></a>
   <a title="Python" href="https://www.python.org/"><img src="images/python.png" height="40"></a>
+  <a title="React" href="https://react.dev/"><img src="images/react.png" height="40"></a>
+  <a title="WordPress" href="https://wordpress.org"><img src="images/wordpress.png" height="40"></a>
+</p>
+<p align="center">Some Experience:</p>
+<p align="center">
   <a title="Unity" href="https://unity.com/"><img src="images/unity.png" height="40"></a>
+  <a title="Less.js" href="https://lesscss.org/"><img src="images/less.png" height="40"></a>
+  <a title="Typescript" href="https://www.typescriptlang.org/"><img src="images/typescript.png" height="40"></a>
 </p>
 
 ## 🌱 I’m currently learning
 <p align="center">
-    <a title="Typescript" href="https://www.typescriptlang.org/"><img src="images/typescript.png" height="40"></a>
-    <a title="Less.js" href="https://lesscss.org/"><img src="images/less.png" height="40"></a>
-    <a title="React" href="https://react.dev/"><img src="images/react.png" height="40"></a>
-    <a title="Angular" href="https://angular.io/"><img src="images/angular.png" height="40"></a>
     <a title="Docker" href="https://www.docker.com/"><img src="images/docker.png" height="40"></a>
 </p>
 
