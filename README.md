@@ -37,6 +37,7 @@ In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.s
 ## 🌱 I’m currently learning
 <p align="center">
     <a title="Swift" href="https://www.swift.org"><img src="images/swift.png" height="40"></a>
+    <a title="Xcode" href="https://developer.apple.com/xcode/"><img src="images/xcode.png" height="40"></a>
     <a title="Docker" href="https://www.docker.com/"><img src="images/docker.png" height="40"></a>
 </p>
 
