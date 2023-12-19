@@ -4,11 +4,8 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
 ---
 
 ## 🔭 I’m currently working on
-+ [**CASMM**](https://github.com/CEN3031Team10f/Emerald-Project02-10f): A cloud-based programming interface designed for elementary students, developed by the University of Florida and Texas A&M University with support from the National Science Foundation
++ [**Plantet**](https://github.com/spfncer/Plantet): A plant watering reminder app for iOS, made as an exploration of development for mobile platforms.
 + [**My Personal Website**](https://fasulo.one): To showcase the software and tools I've worked on
-
-## ✨ Future Work
-+ **Quotable**: A web app where friend groups can create and contribute to group "quote boards"
 
 ## 🦭 Something Cool
 In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.spencer.fasulo.one/sls/) for an introductory course in game development. Though that field is not for me, I still enjoyed making this game. I hope you will give it a spin, keeping an eye out for easter eggs and paying no mind to the bugs that appeared when I built the game for web 😅
