@@ -5,7 +5,7 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
 
 ## 🔭 I’m currently working on
 + [**Plantet**](https://github.com/spfncer/Plantet): A plant watering reminder app for iOS, made as an exploration of development for mobile platforms.
-+ [**My Personal Website**](https://fasulo.one): To showcase the software and tools I've worked on
++ [**My Personal Website**](https://spencer.fasulo.one): To showcase the software and tools I've worked on
 
 ## 🦭 Something Cool
 In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.spencer.fasulo.one/sls/) for an introductory course in game development. Though that field is not for me, I still enjoyed making this game. I hope you will give it a spin, keeping an eye out for easter eggs and paying no mind to the bugs that appeared when I built the game for web 😅
