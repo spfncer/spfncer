@@ -3,10 +3,6 @@ Hi! My name is Spencer and I'm a third-year Computer Science student at the Univ
 
 ---
 
-## 🔭 I’m currently working on
-+ [**Plantet**](https://github.com/spfncer/Plantet): A plant watering reminder app for iOS, made as an exploration of development for mobile platforms.
-+ [**My Personal Website**](https://spencer.fasulo.one): To showcase the software and tools I've worked on
-
 ## 🦭 Something Cool
 In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.spencer.fasulo.one/sls/) for an introductory course in game development. Though that field is not for me, I still enjoyed making this game. I hope you will give it a spin, keeping an eye out for easter eggs and paying no mind to the bugs that appeared when I built the game for web 😅
 
@@ -32,18 +28,13 @@ In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.s
   <a title="Unity" href="https://unity.com/"><img src="images/unity.png" height="40"></a>
   <a title="Less.js" href="https://lesscss.org/"><img src="images/less.png" height="40"></a>
   <a title="Typescript" href="https://www.typescriptlang.org/"><img src="images/typescript.png" height="40"></a>
+  <a title="Docker" href="https://www.docker.com/"><img src="images/docker.png" height="40"></a>
+  <a title="Swift" href="https://www.swift.org"><img src="images/swift.png" height="40"></a>
 </p>
 
-## 🌱 I’m currently learning
-<p align="center">
-    <a title="Swift" href="https://www.swift.org"><img src="images/swift.png" height="40"></a>
-    <a title="Xcode" href="https://developer.apple.com/xcode/"><img src="images/xcode.png" height="40"></a>
-    <a title="Docker" href="https://www.docker.com/"><img src="images/docker.png" height="40"></a>
-</p>
-
-+ Principles of programming lanaguages and how to write a recursive-decent compiler
-+ Relational algebra & SQL
-+ Principles of computer organization
++ Principles of modern Operating Systems
++ Essential UX Design skills
++ Concepts of Public Relations
 
 ## 📊 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spfncer&count_private=true&theme=transparent&showicons=true)]()
