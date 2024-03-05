@@ -21,6 +21,7 @@ In Fall 2022, I made a small platformer called [Sea Lion Scramble](https://www.s
   <a title="Java" href="https://www.java.com/"><img src="images/java.png" height="40"></a>
   <a title="Python" href="https://www.python.org/"><img src="images/python.png" height="40"></a>
   <a title="React" href="https://react.dev/"><img src="images/react.png" height="40"></a>
+  <a title="Svelte" href="https://svelte.dev"><img src="images/svelte.png" height="40"></a>
   <a title="WordPress" href="https://wordpress.org"><img src="images/wordpress.png" height="40"></a>
 </p>
 <p align="center">Some Experience:</p>
