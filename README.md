@@ -1,5 +1,5 @@
 <img src="images/Me!.png">
-Hi! My name is Spencer and I'm a third-year Computer Science student at the University of Florida! Many of my interests fall in disciplines of computing, though I am particularly interested in developing software that enhances the lives of people. In seeking to qualify those benefits, I plan to pursue a minor in Public Relations. I'm also interested in AI, cybersecurity awareness, and human-computer interaction.
+Hi! My name is Spencer and I'm a fourth-year Computer Science student at the University of Florida! Many of my interests fall in disciplines of computing, though I am particularly interested in developing software that enhances the lives of people. In seeking to qualify those benefits, I plan to pursue a minor in Public Relations. I'm also interested in AI, cybersecurity awareness, and human-computer interaction.
 
 ---
 
